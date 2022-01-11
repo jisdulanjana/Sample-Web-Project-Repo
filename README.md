@@ -6,9 +6,6 @@
 
 #Member Count: 5
 
-#Start date: 2022.01.01\
-#edited by rajith\
-#edited by gish\
-#edited by tiki
+#Start date: 2022.01.01
 
 2021.01.03
